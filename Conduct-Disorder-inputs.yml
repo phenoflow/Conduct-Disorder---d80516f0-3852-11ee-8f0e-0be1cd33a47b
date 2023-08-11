@@ -1,0 +1,48 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/conduct-disorder-xmixed---primary.py
+inputModule3:
+  class: File
+  path: python/conduct-disorder-disturbance---primary.py
+inputModule4:
+  class: File
+  path: python/nonaggressive-conduct-disorder---primary.py
+inputModule5:
+  class: File
+  path: python/conduct-disorder-socialised---primary.py
+inputModule6:
+  class: File
+  path: python/conduct-disorder-xother---primary.py
+inputModule7:
+  class: File
+  path: python/conduct-disorder-unspecified---primary.py
+inputModule8:
+  class: File
+  path: python/oppositional-conduct-disorder---primary.py
+inputModule9:
+  class: File
+  path: python/hyperkinetic-conduct-disorder---primary.py
+inputModule10:
+  class: File
+  path: python/conduct-disorder-associated---primary.py
+inputModule11:
+  class: File
+  path: python/conduct-disorder-[x]conduct---primary.py
+inputModule12:
+  class: File
+  path: python/unsocial-conduct-disorder---primary.py
+inputModule13:
+  class: File
+  path: python/conduct-disorder---primary.py
+inputModule14:
+  class: File
+  path: python/conduct-disorder-childhood---primary.py
+inputModule15:
+  class: File
+  path: python/output-cases.py
